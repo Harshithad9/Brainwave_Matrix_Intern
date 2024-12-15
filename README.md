@@ -1,1 +1,1 @@
-# Brainwave_Matrix_Intern
+A Simple Blog Website is a basic web application designed to allow users to read, post, and interact with blog content. The website is developed using HTML, CSS, and JavaScript to create an interactive and visually appealing platform.
